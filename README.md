@@ -2,7 +2,4 @@
 ## Проект выполнила: Семенова Елена
 
 В проекте используются:
-HTML
-CSS
-Javascript
-Normalize
+HTML; CSS; Javascript; Normalize
