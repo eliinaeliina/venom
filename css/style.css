@@ -153,7 +153,7 @@ body {
 }
 .poster {
   width: 362px;
-  border: radius 5px;
+  border-radius: 5px;
   margin-right: 30px;
 }
 .poster-wrapper .content-subtitle {
